@@ -1,0 +1,28 @@
+
+.article{
+    width: 760px;
+    margin: 0 auto;
+    position: relative;
+    top: -100px;
+    padding: 40px 60px;
+    background: #fff
+}
+.spot{
+    margin: 0 40px 80px;
+    text-align: center;
+}
+
+.spot h2{
+    color: var(--theme-color);
+}
+
+.spot p{
+    color: var(--text-color);
+    line-height: 2em;
+    font-size: 0.9em
+}
+
+.article a{
+    color: var(--link-color);
+    font-size: 1.2em;
+}

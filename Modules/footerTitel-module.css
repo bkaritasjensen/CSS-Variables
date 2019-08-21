@@ -1,0 +1,15 @@
+
+footer .titler{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 760px;
+    margin: 0 auto;
+    grid-gap: 40px;
+}
+
+footer .titel{
+    text-align: var(--text-center);
+    color: var(--text-color);
+    line-height: 2em;
+    font-size: 0.9em
+}
