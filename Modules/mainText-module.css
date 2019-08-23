@@ -38,4 +38,8 @@
         color: var(--header-text-color);
     }
 
+    .article{
+        background: rgb(177, 173, 137);
+    }
+
 }

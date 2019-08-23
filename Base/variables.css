@@ -13,8 +13,8 @@
 @media screen and (max-width: 375px){
     :root{
         --theme-phone: #2b4170;
-        --link-color-phone: rgb(59, 39, 39);
-        --header-text-color: rgb(87, 71, 122);
+        --link-color-phone: rgb(49, 82, 87);
+        --header-text-color: rgb(42, 49, 63);
     }
 
 }

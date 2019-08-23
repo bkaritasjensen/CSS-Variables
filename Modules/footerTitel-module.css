@@ -22,6 +22,10 @@ footer .titel{
         padding-bottom: 30px;
         max-width: 300px;
     }
+
+    footer .titel{
+        color: #534f4f;
+    }
     
     
 }

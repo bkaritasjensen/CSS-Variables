@@ -9,3 +9,12 @@ body{
     margin: 0;
     font-family: Verdana;
 }
+
+
+@media screen and (max-width: 375px){
+
+    body{
+        background: rgb(177, 173, 137);
+    }
+
+}
