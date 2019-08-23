@@ -13,3 +13,15 @@ footer .titel{
     line-height: 2em;
     font-size: 0.9em
 }
+
+
+@media screen and (max-width: 375px){
+
+    footer .titler{
+        display: inherit;
+        padding-bottom: 30px;
+        max-width: 300px;
+    }
+    
+    
+}

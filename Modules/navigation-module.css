@@ -12,3 +12,30 @@ nav.main-nav ul{
 nav a{
     color: var(--link-color);
 }
+
+.readMore__phone{
+    display: none;
+}
+
+@media screen and (max-width: 375px){
+
+    nav.main-nav ul{
+        display: inherit;
+        width: auto;
+    }
+
+    nav a{
+        color: var(--color-phone);
+    }
+
+    .readMore__text{
+        display: none;
+    }
+    .readMore{
+        display: none;
+    }
+    .readMore__phone{
+        display: block;
+    }
+
+}

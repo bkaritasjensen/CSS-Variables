@@ -7,3 +7,14 @@
     --text-color: #333;
     --text-center: center;
 }
+
+
+
+@media screen and (max-width: 375px){
+    :root{
+        --theme-phone: #2b4170;
+        --link-color-phone: rgb(59, 39, 39);
+        --header-text-color: rgb(87, 71, 122);
+    }
+
+}
